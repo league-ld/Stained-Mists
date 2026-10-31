@@ -4,7 +4,7 @@
 </p>
 
 # What is Stained Mists
-Stained Mists is a very ambitious Roblox game of mine. It has the world inspired by Mistborn novel series and gameplay inspired by Deepwoken. The game is still Work in Progress.
+Stained Mists is a very ambitious Roblox game of mine. It has the world inspired by Mistborn novel series and gameplay inspired by Deepwoken. The game is still Work in Progress, and I am the sole developer of the game.
 
 # What is this repository
 This isn't a devlog or a list of features in the game. It's just a place for me to occasionally share some progress or write about SM every now and then. I also might not 
