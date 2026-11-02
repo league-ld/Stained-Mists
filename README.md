@@ -10,6 +10,14 @@ Stained Mists is a very ambitious Roblox game of mine. It has the world inspired
 This isn't a devlog or a list of features in the game. It's just a place for me to occasionally share some progress or write about SM every now and then. I also might not 
 put every bit of information here. I might sometimes just upload a video to my [YouTube channel](https://www.youtube.com/@LD-dt1sk).
 
+Also, regarding the current state of Stained Mists, it has a good bit done, but even more to be done. Map, progression, most items and skills, and much more are not done. Map and progression are huge.
+Skills and items more or less(item models are the bottleneck here). Some systems are partially done, like NPCs which I have taken upon me to make as close to real players as I can; this
+is one of the most engineering-wise complicated tasks in the game. A lot of stuff is done, however, like all the data, combat, equipment, weapons, 8 basic metals(atium left only), talkable NPCs,
+movement, a decent bit of animations, environmental effects, and much more. I have no clue how much longer this will take, but I really want to make this game. I have had periods where I would work
+on the game for 8-10 hours a day, and I've had periods where I wouldn't work on the game for months. I rock back and forth between "This will take forever" and "I really want to see this game come to life" every now
+and then. Recently, I hit the second phase, and since I have practically nothing else to do, I decided to work on the game some more, to hopefully release it as soon as possible. This is a very large project for a
+single developer. Btw, this is what I meant by "This is just a place for me to talk about the game, not a devlog." Also, some stuff here is already done(like the metals) and some are the ideas yet to be implemented(like progression).
+
 # Check out
 
 [Get familiar with the language!](https://github.com/league-ld/Stained-Mists/blob/main/Terminology.md)</br>
