@@ -12,4 +12,6 @@ put every bit of information here. I might sometimes just upload a video to my [
 
 # Check out
 
-[My favourite feature](https://github.com/league-ld/Stained-Mists/blob/main/Steel%20%26%20Iron.md)
+[Get familiar with the language!](https://github.com/league-ld/Stained-Mists/blob/main/Terminology.md)</br>
+[Progression and goals](https://github.com/league-ld/Stained-Mists/blob/main/Progression.md)</br>
+[My favourite feature](https://github.com/league-ld/Stained-Mists/blob/main/Steel%20%26%20Iron.md)</br>
