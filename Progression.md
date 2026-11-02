@@ -60,6 +60,7 @@ The reason I chose these Mistborn requirements are as follows:
 - If Mistborn was available right off the start, most players would instantly choose it over Mistings since it feels more special. This means they will likely not experience other playstyles, even though
   they may like it more. This way, they explore different ways to play the game.
 - By learning how to play a certain class, they will learn its strengths and weaknesses, meaning they will have better understanding playing against those classes once they meet them later in the game.
+- Obtaining a Mistborn should feel like a goal, and should feel rewarding. It makes it that much more satisfying to use.
 
   Also, a Mistborn can ingest a very rare metal called Lerasium, which turns them into an Original Mistborn. Original Mistborns get slightly lower fuel consumption, special night idle mist swirling effects, and
   most importantly, one Master Skill they can learn.
