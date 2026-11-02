@@ -61,6 +61,8 @@ The reason I chose these Mistborn requirements are as follows:
   they may like it more. This way, they explore different ways to play the game.
 - By learning how to play a certain class, they will learn its strengths and weaknesses, meaning they will have better understanding playing against those classes once they meet them later in the game.
 - Obtaining a Mistborn should feel like a goal, and should feel rewarding. It makes it that much more satisfying to use.
+- Mastering the 8 metals is a sort of a tutorial. Once the player has mastered them all, they are considered mature and able to stand their ground, as it requires playing many playstyles and getting
+  each one of them to max level. Each metal has its own mini tutorial where the player is taught how to use it.
 
   Also, a Mistborn can ingest a very rare metal called Lerasium, which turns them into an Original Mistborn. Original Mistborns get slightly lower fuel consumption, special night idle mist swirling effects, and
   most importantly, one Master Skill they can learn.
