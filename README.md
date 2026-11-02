@@ -9,3 +9,7 @@ Stained Mists is a very ambitious Roblox game of mine. It has the world inspired
 # What is this repository
 This isn't a devlog or a list of features in the game. It's just a place for me to occasionally share some progress or write about SM every now and then. I also might not 
 put every bit of information here. I might sometimes just upload a video to my [YouTube channel](https://www.youtube.com/@LD-dt1sk).
+
+# Check out
+
+[My favourite feature](https://github.com/league-ld/Stained-Mists/blob/main/Steel%20%26%20Iron.md)
